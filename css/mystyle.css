@@ -1,0 +1,18 @@
+p {
+    font-size: 20px;
+    margin: 20px;
+    text-align: justify;
+}
+
+.border {
+    text-align: left;
+    margin: 20px;
+    background-color: burlywood;
+    border: 2px solid black;
+    height: 45px;
+}
+
+ul {
+    font-size: 20px;
+    margin-left: 10px;
+}
